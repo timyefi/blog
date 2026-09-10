@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "slug": "this-is-not-the-answer",
+      "title": "这不是答案",
+      "column": "理念与方法论",
+      "date": "2026-09-10",
+      "summary": "Skill 不是答案，AGI 也不是答案。答案在使用过程中产生——每个人的机器、每个人的数据都需要被单独训练，通用模型解决不了智能在个人这一侧落地的问题。",
+      "tags": [
+        "AI",
+        "Skill",
+        "方法论",
+        "本地化"
+      ],
+      "file": "posts/this-is-not-the-answer.md"
+    }
+  ]
+}
