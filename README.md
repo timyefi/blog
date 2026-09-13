@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [检索为什么比重新读一遍便宜](https://timyefi.github.io/posts/retrieval-cheaper-than-reread.html)
+
+*2026-09-13*
+
+研究员的长期记忆不该放在模型权重里，而应是一个能被秒级检索的本地文档库：1341 篇、2390 万字的三份语料统一检索，一次查询返回不到全库的万分之一点二，五十毫秒出结果——省下的不只是查找时间，还有不去核实的借口。
+
+[阅读全文](https://timyefi.github.io/posts/retrieval-cheaper-than-reread.html) · [Markdown 原文](posts/retrieval-cheaper-than-reread.md)
+
 ### [把一份 Excel 数据库复刻成一个能跑的东西](https://timyefi.github.io/posts/excel-model-to-runnable-skill.html)
 
 *2026-09-12*
