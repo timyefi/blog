@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "excel-model-to-runnable-skill",
+      "title": "把一份 Excel 数据库复刻成一个能跑的东西",
+      "column": "理念与方法论",
+      "date": "2026-09-12",
+      "summary": "从一张没人敢动的 Excel 数据库出发：先解剖公式与真值再写代码，把数据、逻辑、判断拆成三层，把不能猜的口径问清楚，最后用可重跑的对账证明迁移完成。",
+      "tags": [
+        "AI",
+        "Workflow",
+        "数据工程",
+        "方法论"
+      ],
+      "file": "posts/excel-model-to-runnable-skill.md"
+    },
+    {
       "slug": "this-is-not-the-answer",
       "title": "这不是答案",
       "column": "理念与方法论",

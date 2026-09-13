@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [把一份 Excel 数据库复刻成一个能跑的东西](https://timyefi.github.io/posts/excel-model-to-runnable-skill.html)
+
+*2026-09-12*
+
+从一张没人敢动的 Excel 数据库出发：先解剖公式与真值再写代码，把数据、逻辑、判断拆成三层，把不能猜的口径问清楚，最后用可重跑的对账证明迁移完成。
+
+[阅读全文](https://timyefi.github.io/posts/excel-model-to-runnable-skill.html) · [Markdown 原文](posts/excel-model-to-runnable-skill.md)
+
 ### [这不是答案](https://timyefi.github.io/posts/this-is-not-the-answer.html)
 
 *2026-09-10*
