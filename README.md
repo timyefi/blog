@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [回测框架为什么要分三层](https://timyefi.github.io/posts/three-layer-backtest-framework.html)
+
+*2026-09-16*
+
+把回测写成一段脚本，数字变了却说不出为什么变；拆成数据层、逻辑层、判断层之后，六类常见错误各自有了明确的落点，改一个阈值不必重跑取数，策略能不能发布也第一次有了统一的出口。
+
+[阅读全文](https://timyefi.github.io/posts/three-layer-backtest-framework.html) · [Markdown 原文](posts/three-layer-backtest-framework.md)
+
 ### [检索为什么比重新读一遍便宜](https://timyefi.github.io/posts/retrieval-cheaper-than-reread.html)
 
 *2026-09-13*
