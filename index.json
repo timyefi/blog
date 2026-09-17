@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "cache-bytes-over-price",
+      "title": "缓存字节数正在取代单价",
+      "column": "理念与方法论",
+      "date": "2026-09-17",
+      "summary": "Agent 成本的一等指标正从每百万 token 单价换到每 token 缓存字节数；前缀被击穿时命中量会钉在常数上，这个指纹不依赖任何口径。",
+      "tags": [
+        "AI",
+        "成本",
+        "研究方法",
+        "方法论"
+      ],
+      "file": "posts/cache-bytes-over-price.md"
+    },
+    {
       "slug": "three-layer-backtest-framework",
       "title": "回测框架为什么要分三层",
       "column": "理念与方法论",

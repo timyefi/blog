@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [缓存字节数正在取代单价](https://timyefi.github.io/posts/cache-bytes-over-price.html)
+
+*2026-09-17*
+
+Agent 成本的一等指标正从每百万 token 单价换到每 token 缓存字节数；前缀被击穿时命中量会钉在常数上，这个指纹不依赖任何口径。
+
+[阅读全文](https://timyefi.github.io/posts/cache-bytes-over-price.html) · [Markdown 原文](posts/cache-bytes-over-price.md)
+
 ### [回测框架为什么要分三层](https://timyefi.github.io/posts/three-layer-backtest-framework.html)
 
 *2026-09-16*
