@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [把 AI 风险分散到 AI 之外](https://timyefi.github.io/posts/ai-risk-beyond-ai.html)
+
+*2026-09-18*
+
+名义八个资产的有效风险源只有 2.79 个；分散的空间上界等于权重乘类内波动跨度，按这条公式，AI 内部分散能起多大作用取决于相关性与权重，不取决于名字多少。
+
+[阅读全文](https://timyefi.github.io/posts/ai-risk-beyond-ai.html) · [Markdown 原文](posts/ai-risk-beyond-ai.md)
+
 ### [缓存字节数正在取代单价](https://timyefi.github.io/posts/cache-bytes-over-price.html)
 
 *2026-09-17*

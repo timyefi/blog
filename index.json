@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "ai-risk-beyond-ai",
+      "title": "把 AI 风险分散到 AI 之外",
+      "column": "理念与方法论",
+      "date": "2026-09-18",
+      "summary": "名义八个资产的有效风险源只有 2.79 个；分散的空间上界等于权重乘类内波动跨度，按这条公式，AI 内部分散能起多大作用取决于相关性与权重，不取决于名字多少。",
+      "tags": [
+        "AI",
+        "资产配置",
+        "分散",
+        "研究方法"
+      ],
+      "file": "posts/ai-risk-beyond-ai.md"
+    },
+    {
       "slug": "cache-bytes-over-price",
       "title": "缓存字节数正在取代单价",
       "column": "理念与方法论",
