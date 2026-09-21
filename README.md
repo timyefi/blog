@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [Agent 开始自己改代码之后，投研的信任边界在哪里](https://timyefi.github.io/posts/agent-trust-boundary.html)
+
+*2026-09-22*
+
+从三次亲历事故出发：读不全不许写、覆盖前先能还原、判据取地面真值、闸门不可达按未通过；Agent 会写会改之后，信任边界该画在权限上，不是画在输出上。
+
+[阅读全文](https://timyefi.github.io/posts/agent-trust-boundary.html) · [Markdown 原文](posts/agent-trust-boundary.md)
+
 ### [把 AI 风险分散到 AI 之外](https://timyefi.github.io/posts/ai-risk-beyond-ai.html)
 
 *2026-09-18*
