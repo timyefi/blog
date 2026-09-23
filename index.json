@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "project-not-proxy",
+      "title": "低一档的评级，标的就是项目本身",
+      "column": "理念与方法论",
+      "date": "2026-09-23",
+      "summary": "同一承租人、不同项目，评级总低一档，那一档是项目风险的报价；把这类文章拆成可回源的核查表之后，模型最容易抹平的恰恰是「同一承租人」，而评级差是现成的机械化判据。",
+      "tags": [
+        "AI",
+        "信用研究",
+        "数据中心",
+        "研究方法"
+      ],
+      "file": "posts/project-not-proxy.md"
+    },
+    {
       "slug": "agent-trust-boundary",
       "title": "Agent 开始自己改代码之后，投研的信任边界在哪里",
       "column": "理念与方法论",

@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [低一档的评级，标的就是项目本身](https://timyefi.github.io/posts/project-not-proxy.html)
+
+*2026-09-23*
+
+同一承租人、不同项目，评级总低一档，那一档是项目风险的报价；把这类文章拆成可回源的核查表之后，模型最容易抹平的恰恰是「同一承租人」，而评级差是现成的机械化判据。
+
+[阅读全文](https://timyefi.github.io/posts/project-not-proxy.html) · [Markdown 原文](posts/project-not-proxy.md)
+
 ### [Agent 开始自己改代码之后，投研的信任边界在哪里](https://timyefi.github.io/posts/agent-trust-boundary.html)
 
 *2026-09-22*
