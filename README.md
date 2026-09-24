@@ -6,6 +6,14 @@
 
 ## 理念与方法论
 
+### [金融 Agent 的验收标准要写进设计文档](https://timyefi.github.io/posts/agent-acceptance-in-design.html)
+
+*2026-09-24*
+
+从蚂蚁开源金融搜索评测基准 FinFIRST 与人机责任三分法切入，落到我们自己把验收拆成几何/数据/渲染三层、把每类事故变成一条检查项、数字一律现算、以及把要人拍板的动作做成脚本第一行必须问的闸门。
+
+[阅读全文](https://timyefi.github.io/posts/agent-acceptance-in-design.html) · [Markdown 原文](posts/agent-acceptance-in-design.md)
+
 ### [低一档的评级，标的就是项目本身](https://timyefi.github.io/posts/project-not-proxy.html)
 
 *2026-09-23*

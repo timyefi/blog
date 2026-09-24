@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "agent-acceptance-in-design",
+      "title": "金融 Agent 的验收标准要写进设计文档",
+      "column": "理念与方法论",
+      "date": "2026-09-24",
+      "summary": "从蚂蚁开源金融搜索评测基准 FinFIRST 与人机责任三分法切入，落到我们自己把验收拆成几何/数据/渲染三层、把每类事故变成一条检查项、数字一律现算、以及把要人拍板的动作做成脚本第一行必须问的闸门。",
+      "tags": [
+        "AI",
+        "验收",
+        "治理",
+        "研究方法"
+      ],
+      "file": "posts/agent-acceptance-in-design.md"
+    },
+    {
       "slug": "project-not-proxy",
       "title": "低一档的评级，标的就是项目本身",
       "column": "理念与方法论",
